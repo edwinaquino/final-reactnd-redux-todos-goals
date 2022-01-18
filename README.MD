@@ -2,9 +2,9 @@
 
 This is a very simple state management app that implements the 4 parts that a store must contain:
 * The state
-*Get the state.
-*Listen to changes on the state.
-*Update the state
+* Get the state.
+* Listen to changes on the state.
+* Update the state
 
 
 ## Installation
