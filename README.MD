@@ -12,8 +12,8 @@ This is a very simple state management app that implements the 4 parts that a st
 To run the app, you will need node.js - Start with the app with the following commands:
 
 ```bash
-git clone
-cd reactnd-redux-todos-goals
+git clone https://github.com/edwinaquino/final-reactnd-redux-todos-goals.git
+cd final-reactnd-redux-todos-goals
 npm install
 ```
 
